@@ -16,10 +16,10 @@
 # along with Psdparser.  If not, see <http://www.gnu.org/licenses/>.
 
 import logging
-import math
-import os
-import sys
-from stat import *
+#import math
+#import os
+#import sys
+#from stat import *
 from struct import unpack, calcsize
 from PIL import Image
 
